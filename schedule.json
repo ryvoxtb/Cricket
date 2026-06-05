@@ -1,0 +1,100 @@
+{
+  "season": "2026-2027",
+  "last_updated": "2026-06-05",
+  "source": "Compiled from ICC, NZC, CSA, CA, BCCI official announcements",
+  "series": [
+    {
+      "id": "nz_v_ind_2026",
+      "name": "India tour of New Zealand",
+      "gender": "Men",
+      "home_team": "New Zealand",
+      "away_team": "India",
+      "matches": [
+        { "format": "T20I", "date": "2026-10-22", "venue": "Christchurch" },
+        { "format": "T20I", "date": "2026-10-24", "venue": "Christchurch" },
+        { "format": "T20I", "date": "2026-10-27", "venue": "Wellington" },
+        { "format": "T20I", "date": "2026-10-30", "venue": "Auckland" },
+        { "format": "T20I", "date": "2026-11-01", "venue": "Hamilton" },
+        { "format": "ODI", "date": "2026-11-04", "venue": "Auckland" },
+        { "format": "ODI", "date": "2026-11-07", "venue": "Wellington" },
+        { "format": "ODI", "date": "2026-11-10", "venue": "Hamilton" },
+        { "format": "ODI", "date": "2026-11-13", "venue": "Mount Maunganui" },
+        { "format": "ODI", "date": "2026-11-15", "venue": "Mount Maunganui" },
+        { "format": "Test", "date": "2026-11-19", "end_date": "2026-11-23", "venue": "Wellington" },
+        { "format": "Test", "date": "2026-11-27", "end_date": "2026-12-01", "venue": "Christchurch" }
+      ]
+    },
+    {
+      "id": "nz_v_sl_2027",
+      "name": "Sri Lanka tour of New Zealand",
+      "gender": "Men",
+      "home_team": "New Zealand",
+      "away_team": "Sri Lanka",
+      "matches": [
+        { "format": "ODI", "date": "2027-01-16", "venue": "Napier" },
+        { "format": "ODI", "date": "2027-01-19", "venue": "Wellington" },
+        { "format": "ODI", "date": "2027-01-22", "venue": "Dunedin" },
+        { "format": "T20I", "date": "2027-01-26", "venue": "Christchurch" },
+        { "format": "T20I", "date": "2027-01-29", "venue": "Nelson" },
+        { "format": "T20I", "date": "2027-01-31", "venue": "Nelson" },
+        { "format": "Test", "date": "2027-02-04", "end_date": "2027-02-08", "venue": "Mount Maunganui" },
+        { "format": "Test", "date": "2027-02-12", "end_date": "2027-02-16", "venue": "Hamilton" }
+      ]
+    },
+    {
+      "id": "sa_v_aus_2026",
+      "name": "Australia tour of South Africa",
+      "gender": "Men",
+      "home_team": "South Africa",
+      "away_team": "Australia",
+      "matches": [
+        { "format": "ODI", "date": "2026-09-24", "venue": "Durban" },
+        { "format": "ODI", "date": "2026-09-27", "venue": "Johannesburg" },
+        { "format": "ODI", "date": "2026-09-30", "venue": "Potchefstroom" },
+        { "format": "Test", "date": "2026-10-09", "end_date": "2026-10-13", "venue": "Durban" },
+        { "format": "Test", "date": "2026-10-18", "end_date": "2026-10-22", "venue": "Gqeberha" },
+        { "format": "Test", "date": "2026-10-27", "end_date": "2026-10-31", "venue": "Cape Town" }
+      ]
+    },
+    {
+      "id": "ind_v_aus_2027",
+      "name": "Border-Gavaskar Trophy (Australia tour of India)",
+      "gender": "Men",
+      "home_team": "India",
+      "away_team": "Australia",
+      "matches": [
+        { "format": "Test", "date": "2027-01-21", "end_date": "2027-01-25", "venue": "Nagpur" },
+        { "format": "Test", "date": "2027-01-29", "end_date": "2027-02-02", "venue": "Chennai" },
+        { "format": "Test", "date": "2027-02-11", "end_date": "2027-02-15", "venue": "Guwahati" },
+        { "format": "Test", "date": "2027-02-19", "end_date": "2027-02-23", "venue": "Ranchi" },
+        { "format": "Test", "date": "2027-02-27", "end_date": "2027-03-03", "venue": "Ahmedabad" }
+      ]
+    },
+    {
+      "id": "aus_v_nz_2026-27",
+      "name": "New Zealand tour of Australia",
+      "gender": "Men",
+      "home_team": "Australia",
+      "away_team": "New Zealand",
+      "matches": [
+        { "format": "T20I", "date": "2026-11-29", "venue": "Sydney" },
+        { "format": "Test", "date": "2027-01-04", "end_date": "2027-01-08", "venue": "Sydney" }
+      ]
+    },
+    {
+      "id": "nz_w_v_ban_w_2026",
+      "name": "Bangladesh Women tour of New Zealand",
+      "gender": "Women",
+      "home_team": "New Zealand Women",
+      "away_team": "Bangladesh Women",
+      "matches": [
+        { "format": "T20I", "date": "2026-12-10", "venue": "Nelson" },
+        { "format": "T20I", "date": "2026-12-12", "venue": "Nelson" },
+        { "format": "T20I", "date": "2026-12-15", "venue": "Wellington" },
+        { "format": "ODI", "date": "2026-12-18", "venue": "Wellington" },
+        { "format": "ODI", "date": "2026-12-21", "venue": "Mount Maunganui" },
+        { "format": "ODI", "date": "2026-12-23", "venue": "Mount Maunganui" }
+      ]
+    }
+  ]
+}
