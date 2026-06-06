@@ -14,9 +14,9 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "10:00 AM (IST)",
-    "venue": "M. Chinnaswamy Stadium, Bengaluru",
-    "tv_channels": ["Sports18", "JioCinema", "T Sports"]
+    "time": "09:30 AM (IST)",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+    "tv_channels": ["Sports18", "JioCinema", "T Sports", "FanCode"]
   },
   {
     "match_id": 2,
@@ -33,9 +33,9 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "02:00 PM (BST)",
-    "venue": "Sher-e-Bangla National Stadium, Dhaka",
-    "tv_channels": ["GTV", "T Sports", "Fox Cricket"]
+    "time": "03:00 PM (BST)",
+    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
+    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
   },
   {
     "match_id": 3,
@@ -52,31 +52,12 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "02:00 PM (BST)",
-    "venue": "Sher-e-Bangla National Stadium, Dhaka",
-    "tv_channels": ["GTV", "T Sports", "Fox Cricket"]
+    "time": "03:00 PM (BST)",
+    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
+    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
   },
   {
     "match_id": 4,
-    "series_name": "Australia tour of Bangladesh, 2026",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
-    },
-    "match_type": "ODI",
-    "date": {
-      "day": "14",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "02:00 PM (BST)",
-    "venue": "Sher-e-Bangla National Stadium, Dhaka",
-    "tv_channels": ["GTV", "T Sports", "Fox Cricket"]
-  },
-  {
-    "match_id": 5,
     "series_name": "Afghanistan tour of India, 2026",
     "teams": {
       "team_1": "India",
@@ -90,9 +71,28 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "02:00 PM (IST)",
-    "venue": "India",
-    "tv_channels": ["Sports18", "JioCinema", "T Sports"]
+    "time": "01:30 PM (IST)",
+    "venue": "HPCA Stadium, Dharamshala",
+    "tv_channels": ["Sports18", "JioCinema", "FanCode"]
+  },
+  {
+    "match_id": 5,
+    "series_name": "Australia tour of Bangladesh, 2026",
+    "teams": {
+      "team_1": "Bangladesh",
+      "team_1_code": "BD",
+      "team_2": "Australia",
+      "team_2_code": "AU"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "14",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "03:00 PM (BST)",
+    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
+    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
   },
   {
     "match_id": 6,
@@ -109,12 +109,50 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "06:30 PM (BST)",
-    "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram",
-    "tv_channels": ["GTV", "T Sports", "Fox Cricket"]
+    "time": "06:00 PM (BST)",
+    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
   },
   {
     "match_id": 7,
+    "series_name": "Afghanistan tour of India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Afghanistan",
+      "team_2_code": "AF"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "17",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "01:30 PM (IST)",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "tv_channels": ["Sports18", "JioCinema", "FanCode"]
+  },
+  {
+    "match_id": 8,
+    "series_name": "New Zealand tour of England, 2026",
+    "teams": {
+      "team_1": "England",
+      "team_1_code": "GB-ENG",
+      "team_2": "New Zealand",
+      "team_2_code": "NZ"
+    },
+    "match_type": "Test",
+    "date": {
+      "day": "17",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "11:00 AM (BST)",
+    "venue": "Kennington Oval, London",
+    "tv_channels": ["Sky Sports", "Sony LIV", "Willow TV"]
+  },
+  {
+    "match_id": 9,
     "series_name": "Australia tour of Bangladesh, 2026",
     "teams": {
       "team_1": "Bangladesh",
@@ -128,12 +166,31 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "06:30 PM (BST)",
-    "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram",
-    "tv_channels": ["GTV", "T Sports", "Fox Cricket"]
+    "time": "06:00 PM (BST)",
+    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
   },
   {
-    "match_id": 8,
+    "match_id": 10,
+    "series_name": "Afghanistan tour of India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Afghanistan",
+      "team_2_code": "AF"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "20",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "01:30 PM (IST)",
+    "venue": "M. A. Chidambaram Stadium, Chennai",
+    "tv_channels": ["Sports18", "JioCinema", "FanCode"]
+  },
+  {
+    "match_id": 11,
     "series_name": "Australia tour of Bangladesh, 2026",
     "teams": {
       "team_1": "Bangladesh",
@@ -147,12 +204,31 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "06:30 PM (BST)",
-    "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram",
-    "tv_channels": ["GTV", "T Sports", "Fox Cricket"]
+    "time": "06:00 PM (BST)",
+    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
+    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
   },
   {
-    "match_id": 9,
+    "match_id": 12,
+    "series_name": "New Zealand tour of England, 2026",
+    "teams": {
+      "team_1": "England",
+      "team_1_code": "GB-ENG",
+      "team_2": "New Zealand",
+      "team_2_code": "NZ"
+    },
+    "match_type": "Test",
+    "date": {
+      "day": "25",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "11:00 AM (BST)",
+    "venue": "Trent Bridge, Nottingham",
+    "tv_channels": ["Sky Sports", "Sony LIV", "Willow TV"]
+  },
+  {
+    "match_id": 13,
     "series_name": "India tour of Ireland, 2026",
     "teams": {
       "team_1": "Ireland",
@@ -166,12 +242,12 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "07:30 PM (IST)",
-    "venue": "Stormont, Belfast",
-    "tv_channels": ["Sony Sports Network", "T Sports"]
+    "time": "03:00 PM (BST) / 07:30 PM (IST)",
+    "venue": "Civil Service Cricket Club, Stormont, Belfast",
+    "tv_channels": ["Sports18", "JioCinema", "Club Cricket Ireland"]
   },
   {
-    "match_id": 10,
+    "match_id": 14,
     "series_name": "India tour of Ireland, 2026",
     "teams": {
       "team_1": "Ireland",
@@ -185,35 +261,16 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "07:30 PM (IST)",
-    "venue": "Stormont, Belfast",
-    "tv_channels": ["Sony Sports Network", "T Sports"]
+    "time": "03:00 PM (BST) / 07:30 PM (IST)",
+    "venue": "Civil Service Cricket Club, Stormont, Belfast",
+    "tv_channels": ["Sports18", "JioCinema", "Club Cricket Ireland"]
   },
   {
-    "match_id": 11,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
-    "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
-    },
-    "match_type": "Test",
-    "date": {
-      "day": "28",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "01:30 PM (BST)",
-    "venue": "Harare Sports Club, Harare",
-    "tv_channels": ["T Sports", "GTV", "SuperSport"]
-  },
-  {
-    "match_id": 12,
+    "match_id": 15,
     "series_name": "India tour of England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB",
+      "team_1_code": "GB-ENG",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -223,16 +280,16 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "11:00 PM (IST)",
+    "time": "06:30 PM (BST) / 11:00 PM (IST)",
     "venue": "Riverside Ground, Chester-le-Street",
-    "tv_channels": ["Sony Sports Network", "Sky Sports", "T Sports"]
+    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
   },
   {
-    "match_id": 13,
+    "match_id": 16,
     "series_name": "India tour of England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB",
+      "team_1_code": "GB-ENG",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -242,217 +299,84 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "07:00 PM (IST)",
+    "time": "02:30 PM (BST) / 07:00 PM (IST)",
     "venue": "Emirates Old Trafford, Manchester",
-    "tv_channels": ["Sony Sports Network", "Sky Sports", "T Sports"]
+    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
   },
   {
-    "match_id": 14,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
+    "match_id": 17,
+    "series_name": "India tour of England, 2026",
     "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
+      "team_1": "England",
+      "team_1_code": "GB-ENG",
+      "team_2": "India",
+      "team_2_code": "IN"
     },
-    "match_type": "ODI",
+    "match_type": "T20I",
     "date": {
-      "day": "06",
+      "day": "07",
       "month": "07",
       "year": "2026"
     },
-    "time": "01:30 PM (BST)",
-    "venue": "Harare Sports Club, Harare",
-    "tv_channels": ["T Sports", "GTV"]
+    "time": "06:30 PM (BST) / 11:00 PM (IST)",
+    "venue": "Trent Bridge, Nottingham",
+    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
   },
   {
-    "match_id": 15,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
+    "match_id": 18,
+    "series_name": "India tour of England, 2026",
     "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
+      "team_1": "England",
+      "team_1_code": "GB-ENG",
+      "team_2": "India",
+      "team_2_code": "IN"
     },
-    "match_type": "ODI",
+    "match_type": "T20I",
     "date": {
       "day": "09",
       "month": "07",
       "year": "2026"
     },
-    "time": "01:30 PM (BST)",
-    "venue": "Harare Sports Club, Harare",
-    "tv_channels": ["T Sports", "GTV"]
+    "time": "06:30 PM (BST) / 11:00 PM (IST)",
+    "venue": "County Ground, Bristol",
+    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
   },
   {
-    "match_id": 16,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
+    "match_id": 19,
+    "series_name": "India tour of England, 2026",
     "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
+      "team_1": "England",
+      "team_1_code": "GB-ENG",
+      "team_2": "India",
+      "team_2_code": "IN"
     },
-    "match_type": "ODI",
+    "match_type": "T20I",
     "date": {
       "day": "11",
       "month": "07",
       "year": "2026"
     },
-    "time": "01:30 PM (BST)",
-    "venue": "Harare Sports Club, Harare",
-    "tv_channels": ["T Sports", "GTV"]
-  },
-  {
-    "match_id": 17,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
-    "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
-    },
-    "match_type": "T20I",
-    "date": {
-      "day": "15",
-      "month": "07",
-      "year": "2026"
-    },
-    "time": "05:00 PM (BST)",
-    "venue": "Queens Sports Club, Bulawayo",
-    "tv_channels": ["T Sports", "GTV"]
-  },
-  {
-    "match_id": 18,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
-    "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
-    },
-    "match_type": "T20I",
-    "date": {
-      "day": "17",
-      "month": "07",
-      "year": "2026"
-    },
-    "time": "05:00 PM (BST)",
-    "venue": "Queens Sports Club, Bulawayo",
-    "tv_channels": ["T Sports", "GTV"]
-  },
-  {
-    "match_id": 19,
-    "series_name": "Bangladesh tour of Zimbabwe, 2026",
-    "teams": {
-      "team_1": "Zimbabwe",
-      "team_1_code": "ZW",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
-    },
-    "match_type": "T20I",
-    "date": {
-      "day": "19",
-      "month": "07",
-      "year": "2026"
-    },
-    "time": "05:00 PM (BST)",
-    "venue": "Queens Sports Club, Bulawayo",
-    "tv_channels": ["T Sports", "GTV"]
+    "time": "06:30 PM (BST) / 11:00 PM (IST)",
+    "venue": "The Rose Bowl, Southampton",
+    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
   },
   {
     "match_id": 20,
-    "series_name": "Bangladesh tour of South Africa, 2026",
+    "series_name": "India tour of England, 2026",
     "teams": {
-      "team_1": "South Africa",
-      "team_1_code": "ZA",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
-    },
-    "match_type": "Test",
-    "date": {
-      "day": "15",
-      "month": "11",
-      "year": "2026"
-    },
-    "time": "02:00 PM (BST)",
-    "venue": "Wanderers Stadium, Johannesburg",
-    "tv_channels": ["T Sports", "GTV", "SuperSport"]
-  },
-  {
-    "match_id": 21,
-    "series_name": "Bangladesh tour of South Africa, 2026",
-    "teams": {
-      "team_1": "South Africa",
-      "team_1_code": "ZA",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
-    },
-    "match_type": "Test",
-    "date": {
-      "day": "23",
-      "month": "11",
-      "year": "2026"
-    },
-    "time": "02:00 PM (BST)",
-    "venue": "SuperSport Park, Centurion",
-    "tv_channels": ["T Sports", "GTV", "SuperSport"]
-  },
-  {
-    "match_id": 22,
-    "series_name": "Bangladesh tour of South Africa, 2026",
-    "teams": {
-      "team_1": "South Africa",
-      "team_1_code": "ZA",
-      "team_2": "Bangladesh",
-      "team_2_code": "BD"
+      "team_1": "England",
+      "team_1_code": "GB-ENG",
+      "team_2": "India",
+      "team_2_code": "IN"
     },
     "match_type": "ODI",
     "date": {
-      "day": "01",
-      "month": "12",
+      "day": "14",
+      "month": "07",
       "year": "2026"
     },
-    "time": "02:00 PM (BST)",
-    "venue": "South Africa",
-    "tv_channels": ["T Sports", "GTV", "SuperSport"]
-  },
-  {
-    "match_id": 23,
-    "series_name": "England Tour of Bangladesh, 2027",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "England",
-      "team_2_code": "GB"
-    },
-    "match_type": "Test",
-    "date": {
-      "day": "12",
-      "month": "02",
-      "year": "2027"
-    },
-    "time": "09:30 AM (BST)",
-    "venue": "Sher-e-Bangla National Stadium, Dhaka",
-    "tv_channels": ["GTV", "T Sports", "Sky Sports"]
-  },
-  {
-    "match_id": 24,
-    "series_name": "England Tour of Bangladesh, 2027",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "England",
-      "team_2_code": "GB"
-    },
-    "match_type": "Test",
-    "date": {
-      "day": "20",
-      "month": "02",
-      "year": "2027"
-    },
-    "time": "09:30 AM (BST)",
-    "venue": "Zahur Ahmed Chowdhury Stadium, Chattogram",
-    "tv_channels": ["GTV", "T Sports", "Sky Sports"]
+    "time": "01:00 PM (BST) / 05:30 PM (IST)",
+    "venue": "Edgbaston, Birmingham",
+    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
   }
 ]
