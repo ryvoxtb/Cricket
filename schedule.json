@@ -16,48 +16,10 @@
     },
     "time": "09:30 AM (IST)",
     "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
-    "tv_channels": ["Sports18", "JioCinema", "T Sports", "FanCode"]
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
   },
   {
     "match_id": 2,
-    "series_name": "Australia tour of Bangladesh, 2026",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
-    },
-    "match_type": "ODI",
-    "date": {
-      "day": "09",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:00 PM (BST)",
-    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
-    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
-  },
-  {
-    "match_id": 3,
-    "series_name": "Australia tour of Bangladesh, 2026",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
-    },
-    "match_type": "ODI",
-    "date": {
-      "day": "11",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:00 PM (BST)",
-    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
-    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
-  },
-  {
-    "match_id": 4,
     "series_name": "Afghanistan tour of India, 2026",
     "teams": {
       "team_1": "India",
@@ -67,54 +29,16 @@
     },
     "match_type": "ODI",
     "date": {
-      "day": "14",
+      "day": "13",
       "month": "06",
       "year": "2026"
     },
     "time": "01:30 PM (IST)",
-    "venue": "HPCA Stadium, Dharamshala",
-    "tv_channels": ["Sports18", "JioCinema", "FanCode"]
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamshala",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
   },
   {
-    "match_id": 5,
-    "series_name": "Australia tour of Bangladesh, 2026",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
-    },
-    "match_type": "ODI",
-    "date": {
-      "day": "14",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "03:00 PM (BST)",
-    "venue": "Sher-e-Bangla National Cricket Stadium, Dhaka",
-    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
-  },
-  {
-    "match_id": 6,
-    "series_name": "Australia tour of Bangladesh, 2026",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
-    },
-    "match_type": "T20I",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:00 PM (BST)",
-    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
-  },
-  {
-    "match_id": 7,
+    "match_id": 3,
     "series_name": "Afghanistan tour of India, 2026",
     "teams": {
       "team_1": "India",
@@ -130,48 +54,10 @@
     },
     "time": "01:30 PM (IST)",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "tv_channels": ["Sports18", "JioCinema", "FanCode"]
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
   },
   {
-    "match_id": 8,
-    "series_name": "New Zealand tour of England, 2026",
-    "teams": {
-      "team_1": "England",
-      "team_1_code": "GB-ENG",
-      "team_2": "New Zealand",
-      "team_2_code": "NZ"
-    },
-    "match_type": "Test",
-    "date": {
-      "day": "17",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "11:00 AM (BST)",
-    "venue": "Kennington Oval, London",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Willow TV"]
-  },
-  {
-    "match_id": 9,
-    "series_name": "Australia tour of Bangladesh, 2026",
-    "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
-    },
-    "match_type": "T20I",
-    "date": {
-      "day": "19",
-      "month": "06",
-      "year": "2026"
-    },
-    "time": "06:00 PM (BST)",
-    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
-  },
-  {
-    "match_id": 10,
+    "match_id": 4,
     "series_name": "Afghanistan tour of India, 2026",
     "teams": {
       "team_1": "India",
@@ -186,34 +72,53 @@
       "year": "2026"
     },
     "time": "01:30 PM (IST)",
-    "venue": "M. A. Chidambaram Stadium, Chennai",
-    "tv_channels": ["Sports18", "JioCinema", "FanCode"]
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
   },
   {
-    "match_id": 11,
-    "series_name": "Australia tour of Bangladesh, 2026",
+    "match_id": 5,
+    "series_name": "New Zealand in England, 2026",
     "teams": {
-      "team_1": "Bangladesh",
-      "team_1_code": "BD",
-      "team_2": "Australia",
-      "team_2_code": "AU"
+      "team_1": "England",
+      "team_1_code": "EN",
+      "team_2": "New Zealand",
+      "team_2_code": "NZ"
     },
-    "match_type": "T20I",
+    "match_type": "Test",
     "date": {
-      "day": "21",
+      "day": "04",
       "month": "06",
       "year": "2026"
     },
-    "time": "06:00 PM (BST)",
-    "venue": "Bir Sreshtho Flight Lieutenant Matiur Rahman Stadium, Chattogram",
-    "tv_channels": ["T Sports", "GTV", "Fox Sports", "Tapmad"]
+    "time": "03:30 PM (IST)",
+    "venue": "Lord's Cricket Ground, London",
+    "tv_channels": ["Sky Sports Cricket", "Sky Sports Main Event"]
   },
   {
-    "match_id": 12,
-    "series_name": "New Zealand tour of England, 2026",
+    "match_id": 6,
+    "series_name": "New Zealand in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
+      "team_2": "New Zealand",
+      "team_2_code": "NZ"
+    },
+    "match_type": "Test",
+    "date": {
+      "day": "17",
+      "month": "06",
+      "year": "2026"
+    },
+    "time": "03:30 PM (IST)",
+    "venue": "The Oval, London",
+    "tv_channels": ["Sky Sports Cricket", "Sky Sports Main Event"]
+  },
+  {
+    "match_id": 7,
+    "series_name": "New Zealand in England, 2026",
+    "teams": {
+      "team_1": "England",
+      "team_1_code": "EN",
       "team_2": "New Zealand",
       "team_2_code": "NZ"
     },
@@ -223,16 +128,16 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "11:00 AM (BST)",
+    "time": "03:30 PM (IST)",
     "venue": "Trent Bridge, Nottingham",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Willow TV"]
+    "tv_channels": ["Sky Sports Cricket", "Sky Sports Main Event"]
   },
   {
-    "match_id": 13,
-    "series_name": "India tour of Ireland, 2026",
+    "match_id": 8,
+    "series_name": "India in Ireland, 2026",
     "teams": {
       "team_1": "Ireland",
-      "team_1_code": "IE",
+      "team_1_code": "IR",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -242,16 +147,16 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "03:00 PM (BST) / 07:30 PM (IST)",
-    "venue": "Civil Service Cricket Club, Stormont, Belfast",
-    "tv_channels": ["Sports18", "JioCinema", "Club Cricket Ireland"]
+    "time": "07:30 PM (IST)",
+    "venue": "Civil Service Cricket Club, Belfast",
+    "tv_channels": ["Star Sports 1", "JioHotstar"]
   },
   {
-    "match_id": 14,
-    "series_name": "India tour of Ireland, 2026",
+    "match_id": 9,
+    "series_name": "India in Ireland, 2026",
     "teams": {
       "team_1": "Ireland",
-      "team_1_code": "IE",
+      "team_1_code": "IR",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -261,16 +166,16 @@
       "month": "06",
       "year": "2026"
     },
-    "time": "03:00 PM (BST) / 07:30 PM (IST)",
-    "venue": "Civil Service Cricket Club, Stormont, Belfast",
-    "tv_channels": ["Sports18", "JioCinema", "Club Cricket Ireland"]
+    "time": "07:30 PM (IST)",
+    "venue": "Civil Service Cricket Club, Belfast",
+    "tv_channels": ["Star Sports 1", "JioHotstar"]
   },
   {
-    "match_id": 15,
-    "series_name": "India tour of England, 2026",
+    "match_id": 10,
+    "series_name": "India in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -280,16 +185,16 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "06:30 PM (BST) / 11:00 PM (IST)",
+    "time": "11:00 PM (IST)",
     "venue": "Riverside Ground, Chester-le-Street",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
   },
   {
-    "match_id": 16,
-    "series_name": "India tour of England, 2026",
+    "match_id": 11,
+    "series_name": "India in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -299,16 +204,16 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "02:30 PM (BST) / 07:00 PM (IST)",
-    "venue": "Emirates Old Trafford, Manchester",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
+    "time": "07:00 PM (IST)",
+    "venue": "Old Trafford Cricket Ground, Manchester",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
   },
   {
-    "match_id": 17,
-    "series_name": "India tour of England, 2026",
+    "match_id": 12,
+    "series_name": "India in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -318,16 +223,16 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "06:30 PM (BST) / 11:00 PM (IST)",
+    "time": "11:00 PM (IST)",
     "venue": "Trent Bridge, Nottingham",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
   },
   {
-    "match_id": 18,
-    "series_name": "India tour of England, 2026",
+    "match_id": 13,
+    "series_name": "India in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -337,16 +242,16 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "06:30 PM (BST) / 11:00 PM (IST)",
-    "venue": "County Ground, Bristol",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
+    "time": "11:00 PM (IST)",
+    "venue": "Bristol County Ground, Bristol",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
   },
   {
-    "match_id": 19,
-    "series_name": "India tour of England, 2026",
+    "match_id": 14,
+    "series_name": "India in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -356,16 +261,16 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "06:30 PM (BST) / 11:00 PM (IST)",
-    "venue": "The Rose Bowl, Southampton",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
+    "time": "11:00 PM (IST)",
+    "venue": "Hampshire Bowl, Southampton",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
   },
   {
-    "match_id": 20,
-    "series_name": "India tour of England, 2026",
+    "match_id": 15,
+    "series_name": "India in England, 2026",
     "teams": {
       "team_1": "England",
-      "team_1_code": "GB-ENG",
+      "team_1_code": "EN",
       "team_2": "India",
       "team_2_code": "IN"
     },
@@ -375,8 +280,521 @@
       "month": "07",
       "year": "2026"
     },
-    "time": "01:00 PM (BST) / 05:30 PM (IST)",
+    "time": "05:30 PM (IST)",
     "venue": "Edgbaston, Birmingham",
-    "tv_channels": ["Sky Sports", "Sony LIV", "Sports18", "JioCinema"]
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 16,
+    "series_name": "India in England, 2026",
+    "teams": {
+      "team_1": "England",
+      "team_1_code": "EN",
+      "team_2": "India",
+      "team_2_code": "IN"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "16",
+      "month": "07",
+      "year": "2026"
+    },
+    "time": "05:30 PM (IST)",
+    "venue": "Sophia Gardens, Cardiff",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 17,
+    "series_name": "India in England, 2026",
+    "teams": {
+      "team_1": "England",
+      "team_1_code": "EN",
+      "team_2": "India",
+      "team_2_code": "IN"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "19",
+      "month": "07",
+      "year": "2026"
+    },
+    "time": "03:30 PM (IST)",
+    "venue": "Lord's Cricket Ground, London",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 18,
+    "series_name": "India in Zimbabwe, 2026",
+    "teams": {
+      "team_1": "Zimbabwe",
+      "team_1_code": "ZW",
+      "team_2": "India",
+      "team_2_code": "IN"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "23",
+      "month": "07",
+      "year": "2026"
+    },
+    "time": "04:30 PM (IST)",
+    "venue": "Harare Sports Club, Harare",
+    "tv_channels": ["Star Sports 1", "JioHotstar"]
+  },
+  {
+    "match_id": 19,
+    "series_name": "India in Zimbabwe, 2026",
+    "teams": {
+      "team_1": "Zimbabwe",
+      "team_1_code": "ZW",
+      "team_2": "India",
+      "team_2_code": "IN"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "25",
+      "month": "07",
+      "year": "2026"
+    },
+    "time": "04:30 PM (IST)",
+    "venue": "Harare Sports Club, Harare",
+    "tv_channels": ["Star Sports 1", "JioHotstar"]
+  },
+  {
+    "match_id": 20,
+    "series_name": "India in Zimbabwe, 2026",
+    "teams": {
+      "team_1": "Zimbabwe",
+      "team_1_code": "ZW",
+      "team_2": "India",
+      "team_2_code": "IN"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "26",
+      "month": "07",
+      "year": "2026"
+    },
+    "time": "04:30 PM (IST)",
+    "venue": "Harare Sports Club, Harare",
+    "tv_channels": ["Star Sports 1", "JioHotstar"]
+  },
+  {
+    "match_id": 21,
+    "series_name": "Pakistan in England, 2026",
+    "teams": {
+      "team_1": "England",
+      "team_1_code": "EN",
+      "team_2": "Pakistan",
+      "team_2_code": "PK"
+    },
+    "match_type": "Test",
+    "date": {
+      "day": "19",
+      "month": "08",
+      "year": "2026"
+    },
+    "time": "TBD",
+    "venue": "TBD",
+    "tv_channels": ["Sky Sports Cricket", "Sky Sports Main Event", "PTV Sports", "Geo Super"]
+  },
+  {
+    "match_id": 22,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "27",
+      "month": "09",
+      "year": "2026"
+    },
+    "time": "02:00 PM (IST)",
+    "venue": "Greenfield International Stadium, Thiruvananthapuram",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 23,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "30",
+      "month": "09",
+      "year": "2026"
+    },
+    "time": "02:00 PM (IST)",
+    "venue": "ACA Stadium, Guwahati",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 24,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "03",
+      "month": "10",
+      "year": "2026"
+    },
+    "time": "02:00 PM (IST)",
+    "venue": "PCA International Cricket Stadium, New Chandigarh",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 25,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "06",
+      "month": "10",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 26,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "09",
+      "month": "10",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "JSCA International Stadium Complex, Ranchi",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 27,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "11",
+      "month": "10",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "Holkar Stadium, Indore",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 28,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "14",
+      "month": "10",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "Rajiv Gandhi International Stadium, Hyderabad",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 29,
+    "series_name": "West Indies in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "West Indies",
+      "team_2_code": "WI"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "17",
+      "month": "10",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "M.Chinnaswamy Stadium, Bengaluru",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 30,
+    "series_name": "England in Australia, 2026",
+    "teams": {
+      "team_1": "Australia",
+      "team_1_code": "AU",
+      "team_2": "England",
+      "team_2_code": "EN"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "TBD",
+      "month": "11",
+      "year": "2026"
+    },
+    "time": "TBD",
+    "venue": "TBD",
+    "tv_channels": ["Prime Video", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 31,
+    "series_name": "England in Australia, 2026",
+    "teams": {
+      "team_1": "Australia",
+      "team_1_code": "AU",
+      "team_2": "England",
+      "team_2_code": "EN"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "TBD",
+      "month": "11",
+      "year": "2026"
+    },
+    "time": "TBD",
+    "venue": "TBD",
+    "tv_channels": ["Prime Video", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 32,
+    "series_name": "Bangladesh in South Africa, 2026",
+    "teams": {
+      "team_1": "South Africa",
+      "team_1_code": "SA",
+      "team_2": "Bangladesh",
+      "team_2_code": "BD"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "10",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "09:30 PM (IST)",
+    "venue": "Kimberley Oval, Kimberley",
+    "tv_channels": ["SuperSport Cricket", "T Sports"]
+  },
+  {
+    "match_id": 33,
+    "series_name": "Bangladesh in South Africa, 2026",
+    "teams": {
+      "team_1": "South Africa",
+      "team_1_code": "SA",
+      "team_2": "Bangladesh",
+      "team_2_code": "BD"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "12",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "06:00 PM (IST)",
+    "venue": "Willowmoore Park, Benoni",
+    "tv_channels": ["SuperSport Cricket", "T Sports"]
+  },
+  {
+    "match_id": 34,
+    "series_name": "Sri Lanka in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Sri Lanka",
+      "team_2_code": "SL"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "13",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "02:00 PM (IST)",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 35,
+    "series_name": "Bangladesh in South Africa, 2026",
+    "teams": {
+      "team_1": "South Africa",
+      "team_1_code": "SA",
+      "team_2": "Bangladesh",
+      "team_2_code": "BD"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "13",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "06:00 PM (IST)",
+    "venue": "SuperSport Park, Centurion",
+    "tv_channels": ["SuperSport Cricket", "T Sports"]
+  },
+  {
+    "match_id": 36,
+    "series_name": "Sri Lanka in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Sri Lanka",
+      "team_2_code": "SL"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "16",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "02:00 PM (IST)",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 37,
+    "series_name": "England in South Africa, 2026",
+    "teams": {
+      "team_1": "South Africa",
+      "team_1_code": "SA",
+      "team_2": "England",
+      "team_2_code": "EN"
+    },
+    "match_type": "Test",
+    "date": {
+      "day": "17",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "01:30 PM (IST)",
+    "venue": "DP World Wanderers, Johannesburg",
+    "tv_channels": ["SuperSport Cricket", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 38,
+    "series_name": "Sri Lanka in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Sri Lanka",
+      "team_2_code": "SL"
+    },
+    "match_type": "ODI",
+    "date": {
+      "day": "19",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "02:00 PM (IST)",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 39,
+    "series_name": "Sri Lanka in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Sri Lanka",
+      "team_2_code": "SL"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "22",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "Niranjan Shah Stadium, Rajkot",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 40,
+    "series_name": "Sri Lanka in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Sri Lanka",
+      "team_2_code": "SL"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "24",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "Barabati Stadium, Cuttack",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
+  },
+  {
+    "match_id": 41,
+    "series_name": "England in South Africa, 2026",
+    "teams": {
+      "team_1": "South Africa",
+      "team_1_code": "SA",
+      "team_2": "England",
+      "team_2_code": "EN"
+    },
+    "match_type": "Test",
+    "date": {
+      "day": "26",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "01:30 PM (IST)",
+    "venue": "SuperSport Park, Centurion",
+    "tv_channels": ["SuperSport Cricket", "Sky Sports Cricket"]
+  },
+  {
+    "match_id": 42,
+    "series_name": "Sri Lanka in India, 2026",
+    "teams": {
+      "team_1": "India",
+      "team_1_code": "IN",
+      "team_2": "Sri Lanka",
+      "team_2_code": "SL"
+    },
+    "match_type": "T20I",
+    "date": {
+      "day": "27",
+      "month": "12",
+      "year": "2026"
+    },
+    "time": "07:00 PM (IST)",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "tv_channels": ["Star Sports 1", "JioHotstar", "T Sports"]
   }
 ]
